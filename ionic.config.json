@@ -1,0 +1,7 @@
+{
+  "name": "ScanditDemo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
